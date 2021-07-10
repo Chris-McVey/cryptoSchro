@@ -1,0 +1,22 @@
+{
+  "name": "cryptoschro",
+  "version": "1.0.0",
+  "description": "The greatest cryptocurrency ever made.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-McVey/cryptoSchro.git"
+  },
+  "author": "Chris McVey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-McVey/cryptoSchro/issues"
+  },
+  "homepage": "https://github.com/Chris-McVey/cryptoSchro#readme",
+  "dependencies": {
+    "object-hash": "^2.2.0"
+  }
+}
